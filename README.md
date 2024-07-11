@@ -1,6 +1,6 @@
 ## How to run Easyeffect on background in Hyprland ?
 
-[Easyeffect](https://github.com/wwmm/easyeffects) is an audio equalizer for Linux that use [Pipewire](https://github.com/PipeWire) instead of [Legacy Pulseaudio](https://github.com/pulseaudio) . 
+[Easyeffect](https://github.com/wwmm/easyeffects) is an audio equalizer for Linux that uses [Pipewire](https://github.com/PipeWire) instead of [Legacy Pulseaudio](https://github.com/pulseaudio) . 
 
 
  - Easyeffect app have the option to run on background and on system startup. 
